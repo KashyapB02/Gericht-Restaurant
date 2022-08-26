@@ -4,11 +4,11 @@
   --font-base: 'Cormorant Upright', serif;
   --font-alt: 'Open Sans', sans-serif;
   
-  --color-golden: #DCCA87;
+  --color-golden: hsl(47, 55%, 70%);
   --color-black: #0C0C0C;
   --color-gray: #545454;
   --color-crimson: #DCCA87;
-  --color-grey: #AAAAAA;
+  --color-grey: hsl(0, 0%, 67%);
   --color-white: #FFFFFF;
 }
 
@@ -17,6 +17,7 @@
   padding: 0;
   margin: 0;
   scroll-behavior: smooth;
+  -webkit-tap-highlight-color: none;
 }
 
 a {

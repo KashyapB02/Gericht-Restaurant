@@ -34,7 +34,9 @@ const Gallery = () => {
           {galleryImages.map((image, index) => (
             <div className="app__gallery-images-card flex__center" key={index}>
               <img src={image} alt="galleryImage" />
-              <BsInstagram className='app__gallery-images-icon' />
+              <a href='https://www.instagram.com/' target='_blank' rel='noopener noreferrer' className='app__gallery-images-icon'>
+                <BsInstagram className='app__gallery-images-icon' />
+              </a>
             </div>
           ))}
         </div>
