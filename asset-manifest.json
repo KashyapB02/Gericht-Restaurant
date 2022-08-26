@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Gericht-Restaurant/static/css/main.650b5816.css",
-    "main.js": "/Gericht-Restaurant/static/js/main.3c0099b7.js",
+    "main.css": "/Gericht-Restaurant/static/css/main.377ae823.css",
+    "main.js": "/Gericht-Restaurant/static/js/main.e919b645.js",
     "static/media/meal.mp4": "/Gericht-Restaurant/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
     "static/media/bg.png": "/Gericht-Restaurant/static/media/bg.3d421b1b5682e1b67deb.png",
     "static/media/welcome.png": "/Gericht-Restaurant/static/media/welcome.d724eb984456d9c97470.png",
@@ -24,11 +24,11 @@
     "static/media/sign.png": "/Gericht-Restaurant/static/media/sign.9bf0bd90ad4caa17991f.png",
     "index.html": "/Gericht-Restaurant/index.html",
     "static/media/spoon.svg": "/Gericht-Restaurant/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
-    "main.650b5816.css.map": "/Gericht-Restaurant/static/css/main.650b5816.css.map",
-    "main.3c0099b7.js.map": "/Gericht-Restaurant/static/js/main.3c0099b7.js.map"
+    "main.377ae823.css.map": "/Gericht-Restaurant/static/css/main.377ae823.css.map",
+    "main.e919b645.js.map": "/Gericht-Restaurant/static/js/main.e919b645.js.map"
   },
   "entrypoints": [
-    "static/css/main.650b5816.css",
-    "static/js/main.3c0099b7.js"
+    "static/css/main.377ae823.css",
+    "static/js/main.e919b645.js"
   ]
 }
