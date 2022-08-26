@@ -1,3 +1,18 @@
+# Restaurant Landing Page
+This is a Restaurant Landing Page UI  to learn how to transform a Figma design into a fully functioning website and create modern and responsive ReactJS websites.
+
+![image](https://user-images.githubusercontent.com/87887741/186900217-d1228499-1c78-4b4c-a8c1-2d557fdbe575.png)
+
+## Key Implementation:
+- React functional components and their reusability
+- React file and folder structure
+- Fundamental CSS properties (Flex & Grid)
+- Fundamentals of the CSS BEM Model
+- From soft and pleasant animations to complex gradients
+- Perfectly placed media queries for satisfactory responsiveness covering almost all devices
+
+##
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
